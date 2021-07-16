@@ -1,7 +1,7 @@
 # Strogonoff de Frango
 
 **Negrito**
-_intalico_
+_italico_
 
 - Teste
 
