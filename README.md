@@ -2,4 +2,4 @@
 
 Pontos a se ponderar:
 
-- Não se deve ler se não souber como fazer.
+- asdasda
